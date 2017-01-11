@@ -1,1 +1,1 @@
-# jp_character_tokenizer
+# char-level-cluster-jp
